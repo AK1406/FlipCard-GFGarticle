@@ -1,4 +1,5 @@
 # FlipCard-GFGarticle
+<h3><a href="https://www.geeksforgeeks.org/simulate-a-3d-flip-by-using-androids-scaleanimation/">See the detail explanation</a></h3>
 <hr>
 <br>
 Output:
